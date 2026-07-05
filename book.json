@@ -1,0 +1,29 @@
+{
+  "books": [
+    {
+      "title": "The Sealed Nectar (Ar-Raheeq Al-Makhtum)",
+      "author": "Safiur Rahman Mubarakpuri",
+      "notes": "Award-winning biography of Prophet Muhammad (PBUH), winner of the First Islamic Conference prize."
+    },
+    {
+      "title": "BU-1-12 Taaruf-e-Quran",
+      "author": "Dr. Israr Ahmed",
+      "notes": "An introduction to the Quran covering its themes, structure, and significance in Urdu."
+    },
+    {
+      "title": "The Prophet",
+      "author": "Gibran Khalil Gibran",
+      "notes": "A philosophical and spiritual classic exploring life, love, and wisdom through poetic prose."
+    },
+    {
+      "title": "Rah-e-Nijat",
+      "author": "Dr. Israr Ahmed",
+      "notes": "A guide on the path to salvation in Islam, covering faith, deeds, and spiritual purification."
+    },
+    {
+      "title": "Quran - Translation",
+      "author": "Abdullah Yusuf Ali",
+      "notes": "A widely respected English translation of the Holy Quran with verse-by-verse commentary."
+    }
+  ]
+}
